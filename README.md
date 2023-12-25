@@ -1,1 +1,3 @@
-![hello](https://media.giphy.com/media/3o6MboVtJAyDHitKQo/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT5LMvTWblNaHIR3dm/giphy.gif" alt="animated" />
+</p>

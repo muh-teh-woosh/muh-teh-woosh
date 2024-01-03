@@ -1,1 +1,1 @@
-- [ ] Insert funny tech gif on profile page
+![koala](https://media.giphy.com/media/3o6ZtcZCYVzROMckY8/giphy.gif)
